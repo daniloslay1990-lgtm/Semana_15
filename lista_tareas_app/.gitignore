@@ -1,0 +1,8 @@
+# Excluir carpetas generadas por PyInstaller
+build/
+dist/
+*.spec
+
+# Excluir archivos temporales de Python
+__pycache__/
+*.pyc
